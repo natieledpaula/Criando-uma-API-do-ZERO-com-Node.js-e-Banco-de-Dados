@@ -1,0 +1,24 @@
+{
+  "name": "criando-uma-api-do-zero-com-node.js-e-banco-de-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natieledpaula/Criando-uma-API-do-ZERO-com-Node.js-e-Banco-de-Dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/natieledpaula/Criando-uma-API-do-ZERO-com-Node.js-e-Banco-de-Dados/issues"
+  },
+  "homepage": "https://github.com/natieledpaula/Criando-uma-API-do-ZERO-com-Node.js-e-Banco-de-Dados#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
